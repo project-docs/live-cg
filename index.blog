@@ -1,6 +1,14 @@
 $:markdown
 # LiveCG
 
-LIVE Interactive Visualization Environment for Computational Geometry
+LiveCG is a toolkit for running visualizations and animations about
+data structures and algorithms from the field of Computational Geometry.
+The name is an acronym and stands for Live Interactive Visualization
+Environment for Computational Geometry.
 
+$:/
+
+$:image(src="images/LiveCG.png");
+
+$:markdown
 $:/
