@@ -11,4 +11,25 @@ $:/
 $:image(src="images/LiveCG.png");
 
 $:markdown
+
+## Development
+
+Development of LiveCG happens at GitHub in this repository:
+[sebkur/live-cg] (https://github.com/sebkur/live-cg).
+
+See the [Developer Guide](development.html).
+
+## Running
+
+To run the latest version, check out the source code:
+
+    git clone https://github.com/sebkur/live-cg
+
+from the `project` subdirectory, you can
+and then run the application using gradle:
+
+    gradle run
+
+[More information on running and different executables](build-run.html).
+
 $:/

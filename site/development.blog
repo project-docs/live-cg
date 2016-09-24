@@ -1,0 +1,10 @@
+$:markdown
+
+# Developing
+
+## Setting up the development environment
+You can create an Eclipse project like this:
+
+    gradle cleanEclipse eclipse
+
+$:/
