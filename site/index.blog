@@ -32,4 +32,25 @@ and then run the application using gradle:
 
 [More information on running and different executables](build-run.html).
 
+# User interface
+When you start the main UI, you see the [Geometry Editor](editor.html).
+It can be used to create and manipulate geometric objects that can then be used
+with one of the visualizations.
+
+# Visualizations
+
+The following visualizations are available:
+
+* DCEL
+* Fortune's Sweep
+* Frechet distance:
+    * Free Space Diagram
+    * Distance Terrain
+* Splitting polygons to monotone pieces
+* Triangulation of Monotone Polygons
+* Triangulation of arbitrary polygons
+* Shortest Paths in Polygons
+* Chan's Algorithm
+* Polygon Buffers
+
 $:/
