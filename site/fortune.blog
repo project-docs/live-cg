@@ -1,0 +1,44 @@
+$:markdown
+# Fortune's Sweep
+
+Fortune's Sweep is a sweepline algorithm for computing the Voronoi Diagram.
+
+The input is a set of coordinates on the plane:
+$:/
+
+$:image(src="images/fortune/fortune-input.png");
+
+$:markdown
+The following images are snapshots of the algorithm. The sweepline is the red line which
+is at the left side in the beginning:
+$:/
+
+$:image(src="images/fortune/fortune1.png");
+
+$:markdown
+A site event:
+$:/
+
+$:image(src="images/fortune/fortune2.png");
+
+$:markdown
+An intermediate position of the sweep line:
+$:/
+
+$:image(src="images/fortune/fortune3.png");
+
+$:markdown
+A circle event:
+$:/
+
+$:image(src="images/fortune/fortune4.png");
+
+$:markdown
+The complete Voronoi Diagram:
+$:/
+
+$:image(src="images/fortune/fortune5.png");
+
+$:markdown
+
+$:/

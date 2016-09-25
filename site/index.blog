@@ -42,7 +42,7 @@ with one of the visualizations.
 The following visualizations are available:
 
 * DCEL
-* Fortune's Sweep
+* [Fortune's Sweep](fortune.html)
 * Frechet distance:
     * Free Space Diagram
     * Distance Terrain
