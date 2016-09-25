@@ -1,0 +1,20 @@
+$:markdown
+# Doubly-Connected Edge List (DCEL)
+
+The Doubly-Connected Edge List (DCEL) is an important data structure
+that is used in many geometric algorithms. LiveCG has a visualization
+that displays the DCEL for an input arrangement. The DCEL can also be
+displayed in other visualizations, for example in [Fortune's Sweep](fortune.html).
+
+An arrangement:
+$:/
+
+$:image(src="images/dcel/dcel-geometry.png");
+
+$:markdown
+The DCEL for the above arrangement:
+$:/
+
+$:image(src="images/dcel/dcel-dcel.png");
+
+$:/
