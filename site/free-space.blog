@@ -1,0 +1,42 @@
+$:markdown
+# Fréchet Distance: Free Space Diagram
+
+The Free Space Diagram is a diagram that can be used for computing the
+Fréchet Distance.
+
+Two polygonal chains:
+$:/
+
+$:image(src="images/frechet/frechet-alt-input.png");
+
+$:markdown
+The Fréchet Diagram for a fixed distance:
+$:/
+
+$:image(src="images/frechet/frechet-alt-freespace.png");
+
+$:markdown
+With enabled Free Space markers on the cell boundaries:
+$:/
+
+$:image(src="images/frechet/frechet-alt-freespace-fsm.png");
+
+$:markdown
+With highlighted Reachable Space:
+$:/
+
+$:image(src="images/frechet/frechet-alt-freespace-rs.png");
+
+$:markdown
+Reachable Space highlighted on the cell boundaries:
+$:/
+
+$:image(src="images/frechet/frechet-alt-freespace-rsm.png");
+
+$:markdown
+All highlights enabled:
+$:/
+
+$:image(src="images/frechet/frechet-alt-freespace-all.png");
+
+$:/
