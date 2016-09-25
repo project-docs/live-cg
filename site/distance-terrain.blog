@@ -1,0 +1,26 @@
+$:markdown
+# Fréchet Distance: Distance Terrain
+
+The Distance Terrain is a diagram that can be used for computing the
+Fréchet Distance.
+
+Two polygonal chains:
+$:/
+
+$:image(src="images/frechet/frechet-alt-input.png");
+
+$:markdown
+The Distance Terrain:
+$:/
+
+$:image(src="images/frechet/frechet-alt-terrain.png");
+
+$:markdown
+The same diagram with different scale parameters:
+$:/
+
+$:image(src="images/frechet/frechet-alt-terrain1.png");
+$:image(src="images/frechet/frechet-alt-terrain2.png");
+$:image(src="images/frechet/frechet-alt-terrain3.png");
+
+$:/

@@ -45,7 +45,7 @@ The following visualizations are available:
 * [Fortune's Sweep](fortune.html)
 * Frechet distance:
     * [Free Space Diagram](free-space.html)
-    * Distance Terrain
+    * [Distance Terrain](distance-terrain.html)
 * Splitting polygons to monotone pieces
 * Triangulation of Monotone Polygons
 * Triangulation of arbitrary polygons
