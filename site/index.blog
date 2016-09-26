@@ -50,7 +50,7 @@ The following visualizations are available:
 * [Triangulation of Monotone Polygons](monotone-triangulation.html)
 * [Triangulation of arbitrary polygons](arbitrary-triangulation.html)
 * [Shortest Paths in Polygons](shortest-paths-in-polygons.html)
-* Chan's Algorithm
+* [Chan's Algorithm](chans-algorithm.html)
 * Polygon Buffers
 
 $:/

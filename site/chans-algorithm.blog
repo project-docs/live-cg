@@ -1,0 +1,32 @@
+$:markdown
+# Chan's Algorithm
+
+This visualization shows the gift wrapping step used
+in Chan's Algorithm for computing the convex hull.
+
+A set of convex polygons:
+$:/
+
+$:image(src="images/chan/chan1.png");
+
+$:markdown
+An intermediate position. The algorithm has just identified a
+new vertex of the resulting polygon:
+$:/
+
+$:image(src="images/chan/chan2.png");
+
+$:markdown
+The algorithm determines the tangents to all polygons
+from the current vertex:
+$:/
+
+$:image(src="images/chan/chan3.png");
+
+$:markdown
+The algorithm is finished:
+$:/
+
+$:image(src="images/chan/chan4.png");
+
+$:/
