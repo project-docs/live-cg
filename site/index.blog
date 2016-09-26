@@ -49,7 +49,7 @@ The following visualizations are available:
 * [Splitting polygons to monotone pieces](monotone-pieces.html)
 * [Triangulation of Monotone Polygons](monotone-triangulation.html)
 * [Triangulation of arbitrary polygons](arbitrary-triangulation.html)
-* Shortest Paths in Polygons
+* [Shortest Paths in Polygons](shortest-paths-in-polygons.html)
 * Chan's Algorithm
 * Polygon Buffers
 

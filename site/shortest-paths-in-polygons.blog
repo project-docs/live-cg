@@ -1,0 +1,31 @@
+$:markdown
+# Shortest Paths in Polygons
+
+This algorithm computes the shortest path between two points
+within a polygon.
+
+A polygon:
+$:/
+
+$:image(src="images/spip/spip-input.png");
+
+$:markdown
+The triangulated polygon with start (red) and target (green) points.
+The triangles shaded darker form the so-called sleeve of the polygon.
+$:/
+
+$:image(src="images/spip/spip-sleeve.png");
+
+$:markdown
+An intermediate snapshot of the algorithm:
+$:/
+
+$:image(src="images/spip/spip-candidate.png");
+
+$:markdown
+At the end, the shortest path has been found:
+$:/
+
+$:image(src="images/spip/spip-result.png");
+
+$:/
