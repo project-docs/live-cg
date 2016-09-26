@@ -1,6 +1,25 @@
 $:markdown
 
 # Geometry Editor
+
+The Geometry Editor is part of the main UI and can be used to
+create the geometric input for the visualizations.
+
+Supported types of geometric objects are:
+
+* Points
+* Polygonal Chains (open and closed)
+* Polygons
+* Polygons with holes
+
+The following image illustrates the supported types of objects:
+$:/
+
+$:image(src="images/objects/objects.png");
+
+$:markdown
+
+
 ## Key Bindings
 ### Main
 File:
