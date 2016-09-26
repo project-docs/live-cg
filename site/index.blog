@@ -47,7 +47,7 @@ The following visualizations are available:
     * [Free Space Diagram](free-space.html)
     * [Distance Terrain](distance-terrain.html)
 * Splitting polygons to monotone pieces
-* Triangulation of Monotone Polygons
+* [Triangulation of Monotone Polygons](monotone-triangulation.html)
 * Triangulation of arbitrary polygons
 * Shortest Paths in Polygons
 * Chan's Algorithm

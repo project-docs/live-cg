@@ -1,0 +1,48 @@
+$:markdown
+# Triangulating Monotone Polygons
+
+This visualization shows the algorithm for triangulating Y-monotone
+polygons.
+
+A polygon:
+$:/
+
+$:image(src="images/monotone/monotone-input.png");
+
+$:markdown
+The triangulation of the polygon:
+$:/
+
+$:image(src="images/monotone/monotone-triangulation.png");
+
+$:markdown
+The visualization at the beginning:
+$:/
+
+$:image(src="images/monotone/monotone-triangulation-1.png");
+
+$:markdown
+An intermediate position with some vertices on the stack:
+$:/
+
+$:image(src="images/monotone/monotone-triangulation-2.png");
+
+$:markdown
+Identifying diagonals:
+$:/
+
+$:image(src="images/monotone/monotone-triangulation-3.png");
+
+$:markdown
+After adding the diagonals:
+$:/
+
+$:image(src="images/monotone/monotone-triangulation-4.png");
+
+$:markdown
+The visualization at the end:
+$:/
+
+$:image(src="images/monotone/monotone-triangulation-5.png");
+
+$:/
