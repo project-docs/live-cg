@@ -46,7 +46,7 @@ The following visualizations are available:
 * Frechet distance:
     * [Free Space Diagram](free-space.html)
     * [Distance Terrain](distance-terrain.html)
-* Splitting polygons to monotone pieces
+* [Splitting polygons to monotone pieces](monotone-pieces.html)
 * [Triangulation of Monotone Polygons](monotone-triangulation.html)
 * Triangulation of arbitrary polygons
 * Shortest Paths in Polygons

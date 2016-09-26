@@ -1,0 +1,25 @@
+$:markdown
+# Splitting Polygons to Monotone Pieces
+
+This visualization shows how arbitrary polygons can be split
+into Y-monotone pieces. The resulting monotone pieces can then be
+triangulated with an algorithm that works only for monotone polygons.
+
+A polygon:
+$:/
+
+$:image(src="images/tomonotone/tomonotone-input.png");
+
+$:markdown
+The monotone pieces:
+$:/
+
+$:image(src="images/tomonotone/tomonotone.png");
+
+$:markdown
+The triangulated monotone pieces:
+$:/
+
+$:image(src="images/tomonotone/tomonotone-triangulation.png");
+
+$:/
