@@ -1,0 +1,15 @@
+$:markdown
+# Triangulating Arbitrary Polygons
+
+By combining the algorithm for [splitting polygons to monotone pieces]
+(monotone-pieces.html) with an algorithm for [triangulating monotone polygons]
+(monotone-triangulation.html), we can triangulate arbitrary polygons.
+
+The following image shows a triangulated polygon. The monotone pieces
+are shown in different colors and each of these pieces is triangulated
+independently.
+$:/
+
+$:image(src="images/tomonotone/big-poly-triangulation.png");
+
+$:/

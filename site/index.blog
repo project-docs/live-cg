@@ -48,7 +48,7 @@ The following visualizations are available:
     * [Distance Terrain](distance-terrain.html)
 * [Splitting polygons to monotone pieces](monotone-pieces.html)
 * [Triangulation of Monotone Polygons](monotone-triangulation.html)
-* Triangulation of arbitrary polygons
+* [Triangulation of arbitrary polygons](arbitrary-triangulation.html)
 * Shortest Paths in Polygons
 * Chan's Algorithm
 * Polygon Buffers
