@@ -15,7 +15,7 @@ $:markdown
 ## Development
 
 Development of LiveCG happens at GitHub in this repository:
-[sebkur/live-cg] (https://github.com/sebkur/live-cg).
+[sebkur/live-cg](https://github.com/sebkur/live-cg).
 
 See the [Developer Guide](development.html).
 
